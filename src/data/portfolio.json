@@ -157,7 +157,7 @@
         "AL D365 Business Central"
       ],
       "github": null,
-      "production": null,
+      "production": "https://freshco.id",
       "highlight": "E-commerce App"
     },
     {
@@ -170,7 +170,7 @@
         "AL D365 Business Central"
       ],
       "github": null,
-      "production": "https://freshco.id",
+      "production": null,
       "highlight": "D365 Business Central Customization"
     },
     {
@@ -187,7 +187,7 @@
       "highlight": "D365 Business Central Customization"
     },
     {
-      "id": 4,
+      "id": 5,
       "name": "Report Marketing",
       "description": "Reporting module for Marketing and Sales teams that generates business documents such as invoices and sales summary reports for specific reporting periods.",
       "myRole": "Develop full customization for invoice report and sales report using AL development language",
@@ -200,7 +200,7 @@
       "highlight": "D365 Business Central Customization"
     },
     {
-      "id": 3,
+      "id": 6,
       "name": "Resumid",
       "description": "CV Analyzer web application that helps users analyze and improve their resumes with intelligent feedback.",
       "myRole": "Describe your contribution here — e.g. built the backend API, designed the database schema, integrated AI analysis engine.",
@@ -214,7 +214,7 @@
       "highlight": "CV Analyzer"
     },
     {
-      "id": 4,
+      "id": 7,
       "name": "Batique",
       "description": "Web based app provides posts about batik artworks in Indonesia. Users or the painters themselves can post their artwork images",
       "myRole": "Develop galery page and CRUD for posting batik images.",
@@ -230,7 +230,7 @@
       "highlight": "Web App"
     },
     {
-      "id": 5,
+      "id": 8,
       "name": "Rozaline",
       "description": "Web based app that provides information about various types of flora present in the Flower Garden of Penajam Paser Utara Regency, East Kalimantan.",
       "myRole": "Design UI/UX using Figma and slicing to user interface.",
@@ -247,7 +247,7 @@
       "highlight": "Web App"
     },
     {
-      "id": 6,
+      "id": 9,
       "name": "Indomaju",
       "description": "E-commerce application focused on a small and medium-sized building materials store called TB. Indo Maju located in Indonesia.",
       "myRole": "Responsible for UI/UX design, database architecture, and full-stack application development.",
@@ -263,7 +263,7 @@
       "highlight": "Web App"
     },
     {
-      "id": 7,
+      "id": 10,
       "name": "My Trip Memo",
       "description": "A blog application that records a person's travel journal and displays it for others to read.",
       "myRole": "Responsible for UI/UX design, database architecture, and full-stack application development.",
@@ -273,12 +273,12 @@
         "mysql",
         "tailwindcss"
       ],
-      "github": null,
+      "github": "https://github.com/calvindany/my-trip-memo",
       "production": null,
       "highlight": "Travel App"
     },
     {
-      "id": 8,
+      "id": 11,
       "name": "Wedding Organizer",
       "description": "Wedding organizer platform that connects couples with vendors and helps manage event planning end-to-end.",
       "myRole": "Responsible for UI/UX design, database architecture, and full-stack application development.",
@@ -288,7 +288,7 @@
         "tailwindcss",
         "mysql"
       ],
-      "github": null,
+      "github": "https://github.com/calvindany/wedding-organizer",
       "production": null,
       "highlight": "Event Platform"
     }
