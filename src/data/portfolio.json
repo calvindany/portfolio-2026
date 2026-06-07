@@ -1,0 +1,329 @@
+{
+  "personal": {
+    "name": "Calvin Danyalson",
+    "title": "Backend-Focused Fullstack Developer",
+    "tagline": "Turning business requirements into end-to-end digital solutions.",
+    "bio": "I'm a fullstack developer with deep expertise in backend architecture, API design, and database optimization. I build scalable, maintainable systems that power great user experiences.",
+    "email": "calvindany1102@gmail.com",
+    "location": "Jakarta, Indonesia",
+    "linkedin": "https://linkedin.com/in/calvindany",
+    "github": "https://github.com/calvindany"
+  },
+  "experience": [
+    {
+      "id": 1,
+      "company": "Altitude Solutions",
+      "role": "Technical Consultant",
+      "period": "Nov 2024 – Present",
+      "description": [
+        "Providing technical solutions and customizing Microsoft Business Central ERP modules using AL language according to business process needs.",
+        "Design and implementation system architecture and database schema for web applications and mobile applications.",
+        "Integrating Microsoft D365 Business Central with several web applications and mobile applications using REST API and OData.",
+        "Develop and maintain web applications (internal apps and company product) using several technologies such as Vue, .NET, React TS, Nest JS or mobile applications using Flutter, integrated with the Microsoft Business Central platform."
+      ],
+      "stack": [
+        "nestjs",
+        "java",
+        "dotnet",
+        "react",
+        "microsoftsqlserver",
+        "flutter",
+        "vue",
+        "proxmox",
+        "postgresql",
+        "redis",
+        "nginx",
+        "AL D365 Business Central"
+      ]
+    },
+    {
+      "id": 2,
+      "company": "Taldio",
+      "role": "Engineer Internship",
+      "period": "Nov 2023 – Aug 2024",
+      "description": [
+        "Participating in supporting the development on web-based applications with React.js, Next.js, .NET Framework, and Golang based on product and design requirements provided.",
+        "Implementing clean and maintainable code.",
+        "Conducting research and implementation of various technology such as Google Recaptcha, Google Indexing, Next JS and Golang deployment on IIS, and improving website performance on React.JS."
+      ],
+      "stack": [
+        "react",
+        "nextjs",
+        "go",
+        "php",
+        "dotnet",
+        "microsoftsqlserver",
+        "nginx",
+        "googlecloud"
+      ]
+    },
+    {
+      "id": 3,
+      "company": "Coding.ID",
+      "role": "Coach Assistant",
+      "period": "Feb 2023 – Jan 2024",
+      "description": [
+        "Teaching beginner-level bootcamp classes on JavaScript programming and programming logic.",
+        "Guiding advanced Fullstack Engineer bootcamp participants in completing their given final project under academic team guidance.",
+        "Deploying web-based applications on Windows Server."
+      ],
+      "stack": [
+        "javascript",
+        "nodejs",
+        "mysql",
+        "dotnet",
+        "react",
+        "microsoftsqlserver"
+      ]
+    },
+    {
+      "id": 4,
+      "company": "LepKom",
+      "role": "Laboratory Assistant",
+      "period": "Mar 2022 – Present",
+      "description": [
+        "Conducting workshops and performing computer maintenance at Gunadarma University's laboratory."
+      ],
+      "stack": [
+        "javascript",
+        "html",
+        "css",
+        "java"
+      ]
+    },
+    {
+      "id": 5,
+      "company": "Bangkit Academy",
+      "role": "Cloud Computing Student",
+      "period": "Feb 2023 – Jul 2023",
+      "description": [
+        "Learning Back-End API development using JavaScript.",
+        "Studying Cloud Architecture with Google Cloud Platform.",
+        "Collaborating in a team to develop a vegetable freshness classification application utilizing Google Cloud services."
+      ],
+      "stack": [
+        "javascript",
+        "nodejs",
+        "googlecloud"
+      ]
+    },
+    {
+      "id": 6,
+      "company": "Kedaireka",
+      "role": "Research Assistant",
+      "period": "Sep 2022 – Dec 2022",
+      "description": [
+        "Designing website user interfaces.",
+        "Collaborating with team and creating user interfaces using HTML, CSS, JavaScript, and Bootstrap."
+      ],
+      "stack": [
+        "javascript",
+        "html",
+        "css",
+        "php"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name": "TMS Web App",
+      "description": "A web-based Transport Management System designed to optimize logistics processes, monitor deliveries, and improve transportation efficiency.",
+      "myRole": "Develop backend application and integration between web application to Microsoft D365 Business Central (ERP).",
+      "thumbnail": null,
+      "stack": [
+        "nextjs",
+        "nestjs",
+        "postgresql",
+        "docker",
+        "AL D365 Business Central",
+        "proxmox"
+      ],
+      "github": null,
+      "production": null,
+      "highlight": "Transport Management System"
+    },
+    {
+      "id": 2,
+      "name": "Freshco Web App",
+      "description": "Web-based marketplace for ordering fresh produce and grocery products quickly and conveniently.",
+      "myRole": "Develop integration between web application to Microsoft D365 Business Central (ERP) and implement stock reserve logic between two systems to ensure accurate inventory management and seamless order processing.",
+      "thumbnail": "/images/freshco.webp",
+      "stack": [
+        "nextjs",
+        "nestjs",
+        "postgresql",
+        "docker",
+        "AL D365 Business Central"
+      ],
+      "github": null,
+      "production": null,
+      "highlight": "E-commerce App"
+    },
+    {
+      "id": 3,
+      "name": "Sales Credit Limit",
+      "description": "Credit limit implementation on Microsoft D365 Busines Central for customer account receiveable amount.",
+      "myRole": "Develop full customization base on design document using AL development language",
+      "thumbnail": "/images/business-central.webp",
+      "stack": [
+        "AL D365 Business Central"
+      ],
+      "github": null,
+      "production": "https://freshco.id",
+      "highlight": "D365 Business Central Customization"
+    },
+    {
+      "id": 4,
+      "name": "Consignee Transaction",
+      "description": "Consignment Sales module that enables companies to manage the sale and purchase of consigned goods, with transactions recognized as internal company transactions only after a successful sale has occurred.",
+      "myRole": "Develop full customization base on design document for Purchase and Item Journal module using AL development language",
+      "thumbnail": "/images/business-central.webp",
+      "stack": [
+        "AL D365 Business Central"
+      ],
+      "github": null,
+      "production": null,
+      "highlight": "D365 Business Central Customization"
+    },
+    {
+      "id": 4,
+      "name": "Report Marketing",
+      "description": "Reporting module for Marketing and Sales teams that generates business documents such as invoices and sales summary reports for specific reporting periods.",
+      "myRole": "Develop full customization for invoice report and sales report using AL development language",
+      "thumbnail": "/images/business-central.webp",
+      "stack": [
+        "AL D365 Business Central"
+      ],
+      "github": null,
+      "production": null,
+      "highlight": "D365 Business Central Customization"
+    },
+    {
+      "id": 3,
+      "name": "Resumid",
+      "description": "CV Analyzer web application that helps users analyze and improve their resumes with intelligent feedback.",
+      "myRole": "Describe your contribution here — e.g. built the backend API, designed the database schema, integrated AI analysis engine.",
+      "thumbnail": "/images/resumid.webp",
+      "stack": [
+        "react",
+        "nodejs"
+      ],
+      "github": null,
+      "production": null,
+      "highlight": "CV Analyzer"
+    },
+    {
+      "id": 4,
+      "name": "Batique",
+      "description": "Web application for Batique — describe what this project does and its main features.",
+      "myRole": "Describe your contribution here — e.g. fullstack development, API integration, UI implementation.",
+      "thumbnail": "/images/batique.webp",
+      "stack": [
+        "react",
+        "nodejs"
+      ],
+      "github": null,
+      "production": null,
+      "highlight": "Web App"
+    },
+    {
+      "id": 5,
+      "name": "Rozaline",
+      "description": "Web application for Rozaline — describe what this project does and its main features.",
+      "myRole": "Describe your contribution here — e.g. backend development, database design, deployment.",
+      "thumbnail": "/images/rozaline.webp",
+      "stack": [
+        "react",
+        "nodejs"
+      ],
+      "github": null,
+      "production": null,
+      "highlight": "Web App"
+    },
+    {
+      "id": 6,
+      "name": "Indomaju",
+      "description": "Web application for Indomaju — describe what this project does and its main features.",
+      "myRole": "Describe your contribution here — e.g. fullstack development, API design, performance optimization.",
+      "thumbnail": "/images/indomaju.webp",
+      "stack": [
+        "react",
+        "nodejs"
+      ],
+      "github": null,
+      "production": null,
+      "highlight": "Web App"
+    },
+    {
+      "id": 7,
+      "name": "My Trip Memo",
+      "description": "Travel memo mobile/web application that helps users document and organize their trip experiences.",
+      "myRole": "Describe your contribution here — e.g. mobile development, REST API, authentication system.",
+      "thumbnail": "/images/my-trip-memo.webp",
+      "stack": [
+        "react",
+        "nodejs"
+      ],
+      "github": null,
+      "production": null,
+      "highlight": "Travel App"
+    },
+    {
+      "id": 8,
+      "name": "Wedding Organizer",
+      "description": "Wedding organizer platform that connects couples with vendors and helps manage event planning end-to-end.",
+      "myRole": "Describe your contribution here — e.g. backend services, vendor management module, booking flow.",
+      "thumbnail": "/images/wedding-organizer.webp",
+      "stack": [
+        "react",
+        "nodejs"
+      ],
+      "github": null,
+      "production": null,
+      "highlight": "Event Platform"
+    }
+  ],
+  "skills": {
+    "languages": [
+      "javascript",
+      "typescript",
+      "go",
+      "python",
+      "php",
+      "bash"
+    ],
+    "backend": [
+      "nodejs",
+      "express",
+      "nestjs",
+      "dotnet",
+      "laravel",
+      "AL D365 Business Central"
+    ],
+    "frontend": [
+      "react"
+    ],
+    "databases": [
+      "postgresql",
+      "mysql",
+      "mongodb",
+      "microsoftsqlserver",
+      "redis"
+    ],
+    "devops": [
+      "windows8",
+      "ubuntu",
+      "cloudflare",
+      "docker",
+      "nginx",
+      "gitlabci",
+      "googlecloud",
+      "pm2"
+    ],
+    "tools": [
+      "git",
+      "postman"
+    ]
+  }
+}
