@@ -216,12 +216,14 @@
     {
       "id": 4,
       "name": "Batique",
-      "description": "Web application for Batique — describe what this project does and its main features.",
-      "myRole": "Describe your contribution here — e.g. fullstack development, API integration, UI implementation.",
+      "description": "Web based app provides posts about batik artworks in Indonesia. Users or the painters themselves can post their artwork images",
+      "myRole": "Develop galery page and CRUD for posting batik images.",
       "thumbnail": "/images/batique.webp",
       "stack": [
         "react",
-        "nodejs"
+        "express",
+        "mongodb",
+        "tailwindcss"
       ],
       "github": null,
       "production": null,
@@ -230,26 +232,31 @@
     {
       "id": 5,
       "name": "Rozaline",
-      "description": "Web application for Rozaline — describe what this project does and its main features.",
-      "myRole": "Describe your contribution here — e.g. backend development, database design, deployment.",
+      "description": "Web based app that provides information about various types of flora present in the Flower Garden of Penajam Paser Utara Regency, East Kalimantan.",
+      "myRole": "Design UI/UX using Figma and slicing to user interface.",
       "thumbnail": "/images/rozaline.webp",
       "stack": [
-        "react",
-        "nodejs"
+        "html",
+        "css",
+        "javascript",
+        "mysql",
+        "bootstrap"
       ],
       "github": null,
-      "production": null,
+      "production": "https://disbudpar.penajamkab.go.id/puspita/taman-rozeline",
       "highlight": "Web App"
     },
     {
       "id": 6,
       "name": "Indomaju",
-      "description": "Web application for Indomaju — describe what this project does and its main features.",
-      "myRole": "Describe your contribution here — e.g. fullstack development, API design, performance optimization.",
+      "description": "E-commerce application focused on a small and medium-sized building materials store called TB. Indo Maju located in Indonesia.",
+      "myRole": "Responsible for UI/UX design, database architecture, and full-stack application development.",
       "thumbnail": "/images/indomaju.webp",
       "stack": [
-        "react",
-        "nodejs"
+        "express",
+        "nodejs",
+        "mongodb",
+        "bootstrap"
       ],
       "github": null,
       "production": null,
@@ -258,12 +265,13 @@
     {
       "id": 7,
       "name": "My Trip Memo",
-      "description": "Travel memo mobile/web application that helps users document and organize their trip experiences.",
-      "myRole": "Describe your contribution here — e.g. mobile development, REST API, authentication system.",
+      "description": "A blog application that records a person's travel journal and displays it for others to read.",
+      "myRole": "Responsible for UI/UX design, database architecture, and full-stack application development.",
       "thumbnail": "/images/my-trip-memo.webp",
       "stack": [
-        "react",
-        "nodejs"
+        "codeigniter",
+        "mysql",
+        "tailwindcss"
       ],
       "github": null,
       "production": null,
@@ -273,11 +281,12 @@
       "id": 8,
       "name": "Wedding Organizer",
       "description": "Wedding organizer platform that connects couples with vendors and helps manage event planning end-to-end.",
-      "myRole": "Describe your contribution here — e.g. backend services, vendor management module, booking flow.",
+      "myRole": "Responsible for UI/UX design, database architecture, and full-stack application development.",
       "thumbnail": "/images/wedding-organizer.webp",
       "stack": [
-        "react",
-        "nodejs"
+        "php",
+        "tailwindcss",
+        "mysql"
       ],
       "github": null,
       "production": null,

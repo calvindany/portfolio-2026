@@ -18,7 +18,7 @@ const ICON_MAP = {
   laravel: { slug: "laravel", variant: "original", label: "Laravel" },
   react: { slug: "react", variant: "original", label: "React" },
   nextjs: { slug: "nextjs", variant: "plain", label: "Next.js" },
-  tailwindcss: { slug: "tailwindcss", variant: "plain", label: "Tailwind" },
+  tailwindcss: { slug: "tailwindcss", variant: "original", label: "Tailwind" },
   postgresql: { slug: "postgresql", variant: "plain", label: "PostgreSQL" },
   mysql: { slug: "mysql", variant: "original", label: "MySQL" },
   mongodb: { slug: "mongodb", variant: "plain", label: "MongoDB" },
@@ -46,6 +46,8 @@ const ICON_MAP = {
   windows8: { slug: "windows8", variant: "original", label: "Windows Server" },
   ubuntu: { slug: "ubuntu", variant: "original", label: "Ubuntu" },
   cloudflare: { slug: "cloudflare", variant: "original", label: "Cloudflare" },
+  codeigniter: { slug: "codeigniter", variant: "plain", label: "Codeigniter" },
+  bootstrap: { slug: "bootstrap", variant: "original", label: "Bootstrap" },
 };
 
 function TechIcon({ name, size = 32, showLabel = false }) {
