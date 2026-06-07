@@ -260,7 +260,7 @@ function Projects() {
                 ) : (
                   <div className="thumb-placeholder">
                     <IconImage />
-                    <span>Screenshoot not available</span>
+                    <span>Screenshot not available</span>
                   </div>
                 )}
                 <div className="thumb-overlay">
