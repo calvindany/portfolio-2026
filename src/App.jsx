@@ -260,7 +260,7 @@ function Projects() {
                 ) : (
                   <div className="thumb-placeholder">
                     <IconImage />
-                    <span>Add screenshot URL<br />in portfolio.json</span>
+                    <span>Screenshoot not available</span>
                   </div>
                 )}
                 <div className="thumb-overlay">
