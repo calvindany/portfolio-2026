@@ -145,10 +145,10 @@
     },
     {
       "id": 2,
-      "name": "Freshco Web App",
+      "name": "Retail E-Commerce App",
       "description": "Web-based marketplace for ordering fresh produce and grocery products quickly and conveniently.",
       "myRole": "Develop integration between web application to Microsoft D365 Business Central (ERP) and implement stock reserve logic between two systems to ensure accurate inventory management and seamless order processing.",
-      "thumbnail": "/images/freshco.webp",
+      "thumbnail": null,
       "stack": [
         "nextjs",
         "nestjs",
@@ -157,7 +157,7 @@
         "AL D365 Business Central"
       ],
       "github": null,
-      "production": "https://freshco.id",
+      "production": null,
       "highlight": "E-commerce App"
     },
     {
