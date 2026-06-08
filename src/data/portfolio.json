@@ -202,12 +202,14 @@
     {
       "id": 6,
       "name": "Resumid",
-      "description": "CV Analyzer web application that helps users analyze and improve their resumes with intelligent feedback.",
-      "myRole": "Describe your contribution here — e.g. built the backend API, designed the database schema, integrated AI analysis engine.",
+      "description": "CV Analyzer web application that helps users analyze and improve their resumes with intelligent feedback. Powered by ICP Web3 technology.",
+      "myRole": "Responsible for creating system design for AI Analyzer integration and develop and deployment backend module using Motoko ICP Language",
       "thumbnail": "/images/resumid.webp",
       "stack": [
         "react",
-        "nodejs"
+        "motoko",
+        "icp",
+        "express"
       ],
       "github": null,
       "production": null,

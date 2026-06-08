@@ -48,6 +48,8 @@ const ICON_MAP = {
   cloudflare: { slug: "cloudflare", variant: "original", label: "Cloudflare" },
   codeigniter: { slug: "codeigniter", variant: "plain", label: "Codeigniter" },
   bootstrap: { slug: "bootstrap", variant: "original", label: "Bootstrap" },
+  motoko: { slug: "motoko", variant: "original", label: "Motoko" },
+  icp: { slug: "bootstrap", variant: "original", label: "ICP (Internet Computer)" },
 };
 
 function TechIcon({ name, size = 32, showLabel = false }) {
