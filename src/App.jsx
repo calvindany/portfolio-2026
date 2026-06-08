@@ -49,7 +49,7 @@ const ICON_MAP = {
   codeigniter: { slug: "codeigniter", variant: "plain", label: "Codeigniter" },
   bootstrap: { slug: "bootstrap", variant: "original", label: "Bootstrap" },
   motoko: { slug: "motoko", variant: "original", label: "Motoko" },
-  icp: { slug: "bootstrap", variant: "original", label: "ICP (Internet Computer)" },
+  icp: { slug: "icp", variant: "original", label: "ICP (Internet Computer)" },
 };
 
 function TechIcon({ name, size = 32, showLabel = false }) {
